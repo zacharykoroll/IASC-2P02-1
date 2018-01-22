@@ -8,4 +8,4 @@ I am an Assistant Professor in Digital Prototyping at Brock University’s Centr
 
 ## Blog post
 
-First sentence of blog post goes here...
+First sentence of blog post goes here... [continue reading](blog)
